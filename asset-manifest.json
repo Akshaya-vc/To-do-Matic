@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/To-do-Matic/static/css/main.55057c51.chunk.css",
+    "main.js": "/To-do-Matic/static/js/main.79b8d183.chunk.js",
+    "main.js.map": "/To-do-Matic/static/js/main.79b8d183.chunk.js.map",
+    "runtime-main.js": "/To-do-Matic/static/js/runtime-main.bb41f7b9.js",
+    "runtime-main.js.map": "/To-do-Matic/static/js/runtime-main.bb41f7b9.js.map",
+    "static/js/2.4becf163.chunk.js": "/To-do-Matic/static/js/2.4becf163.chunk.js",
+    "static/js/2.4becf163.chunk.js.map": "/To-do-Matic/static/js/2.4becf163.chunk.js.map",
+    "index.html": "/To-do-Matic/index.html",
+    "static/css/main.55057c51.chunk.css.map": "/To-do-Matic/static/css/main.55057c51.chunk.css.map",
+    "static/js/2.4becf163.chunk.js.LICENSE.txt": "/To-do-Matic/static/js/2.4becf163.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb41f7b9.js",
+    "static/js/2.4becf163.chunk.js",
+    "static/css/main.55057c51.chunk.css",
+    "static/js/main.79b8d183.chunk.js"
+  ]
+}
